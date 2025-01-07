@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Michael 👋
+I am a **Computer Science** student at Texas A&M University about halfway through my Bachelor's. 
 
 <!--
 **Beruzi/Beruzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
